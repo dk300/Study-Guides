@@ -28,7 +28,7 @@
 <p>
     <h3> Ways to Study using Auditory Learning </h3>
    <ul>
-       <li> listen to music while you read your notes. </li>
+       <li> Listen to music while you read your notes. </li>
        <li> Record yourself saying your study notes and then just play it to yourself. </li>
        <li> Find a text to speech app or website and write your notes into the box, then press play. <br>
            (This method might not sound the best, when you are listening to it) </li>
