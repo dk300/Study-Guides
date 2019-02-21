@@ -1,4 +1,4 @@
-# Study-Guides
+# Study Guides
 <!DOCTYPE html>
 <html>
     <head>
