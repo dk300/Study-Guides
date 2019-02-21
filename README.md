@@ -7,7 +7,7 @@
     <body>
 <p> Many students struggle with creating <strong>a study guide </strong>that is based on their <strong> learning type </strong> and then receives a mark on their test that they’re not happy with. Here are a couple of study guides that are made for the correct learning type, which will help students <strong> effectively learn </strong> for any test, exam, etc.</p> 
 <br> <h2> Visual Learning</h2>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Vbz9uWlOurgdJvrf508eZkbjg0COaIW0NFE9TmrT_p7eQigimg" width="210" height="120" align="right">
 
 <h3> Some of the characteristics of visual learners consist of:</h3>
 <ul>
@@ -38,7 +38,7 @@
        <li> Listen to music while you read your notes. </li>
        <li> Record yourself saying your study notes and then just play it to yourself. </li>
        <li> Find a text to speech app or website and write your notes into the box, then press play. <br>
-           (This method might not sound the best, when you are listening to it) </li>
+               (This method might not sound the best, when you are listening to it) </li>
    </ul>
   <h3> Social Learning </h3>
  
