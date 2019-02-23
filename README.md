@@ -4,7 +4,8 @@
     <head>
         <meta charset="utf-8">
     </head>
-    <body>
+<body>
+ 
 <p> Many students struggle with creating <strong>a study guide </strong>that is based on their <strong> learning type </strong> and then receives a mark on their test that they’re not happy with. Here are a couple of study guides that are made for the correct learning type, which will help students <strong> effectively learn </strong> for any test, exam, etc.</p> 
 <br><h2>Visual Learning</h2>   
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Vbz9uWlOurgdJvrf508eZkbjg0COaIW0NFE9TmrT_p7eQigimg" width="210" height="120" align="right">
@@ -19,15 +20,18 @@
 <p>One way a visual learner should study, is by creating various <strong>charts</strong>, that display the notes they’ve made in class. However, by drawing the information out, it is more likely for visual learners to understand the information better. To make a diagram,<strong> highlighting the key words</strong> in your notes is the best way to start. You can use those keywords in your diagram by labeling key parts of the diagram. For example, if you draw a plant cell on a flash card, and have an arrow pointing towards a key part of the cell, you can have the organelle on the other side and provide a definition of the organelle. Another way many visual learners study is by <strong>colour coding</strong> their notes. For instance, if your studying vocabulary for a specific subject, you may want to use different colour highlighters <strong>to indicate the importance</strong> of the word. Each colour can symbolize the topic or category it falls under.</p>    
 <img src="https://www.motivesinmotion.com/wp-content/uploads/2016/02/www.taylorhartman.comblogwhat-is-the-color-codecovercolor-code-intl-logo1-e1417293931224-443e7c79205ad5b29d45707b843f23679a14e381.png" width="300" align="right">        
 <p>Use of pictures and diagrams can help a student learn a key topic, as the learner visualizes pictures in their mind while reading, and they are able to understand the key points of a chart. A visual learner should study by creating various charts, that display the notes they’ve made in class. By drawing the information out, it is more likely for visual learners to understand the information better. To make a diagram, highlighting the keywords in your notes is the best way to start. You can use those keywords in your diagram by labeling important parts of the diagram. For example, if you draw a plant cell on a flash card, and have an arrow pointing towards a key part of the cell, you can have the organelle on the other side and provide a definition of the organelle. Another way many visual learners study is by color coding their notes. For instance, if your studying vocabulary for a specific subject, you may want to use different color highlighters to indicate the importance of the word. Each color can symbolize the topic or category it falls under.</p>
+ <hr style="border: 4px solid blue;" />
 <h3>Visual Learner Study Guide</h3>
 <p>The first part of this study guide is to make a chart, the chart includes the various topics that you have to study for a test, along with the difficulty level of each topic. Identifying the difficulty level will allow one to understand which topics they need to study first. The first step is to divide the information you need to study into 6-10 topics, and then rate the difficulty level of your topics. Now, this makes it easier for creating a study schedule, based on what you think needs to be studied the most. For instance, if a learner has to study 6 topics, but 2 topics are very difficult to learn, the learner would study the challenging topics first. The study schedule consists of how many days the learner thinks they need to study before their test.</p>
-<p>Using the techniques of visual learners, the second part of this study guide includes making a chart and a diagram. This part consists of making a chart with terms you need to study, along with the definitions. We also created a visually appealing diagram, using the topic of “Reproduction” as an example. The third part of this prototype is most visually appealing, yet is still effective.</p>
+<p>Using the techniques of visual learners, the second part of this study guide includes making a chart and a diagram. This part consists of making a chart with terms you need to study, along with the definitions. We also created a visually appealing diagram, using the topic of “Reproduction” as an example. The diagram includes turning key words of a topic into symbols or pictures to help a visual learner understand the main concept of the topic.</p>
+
+<p>The third part of this prototype is most visually appealing, yet is still effective.</p>
 
 
 
 <p1>The study guide we’ve made for <strong2> Visual Learners </strong2> consists of all of the techniques these types of learners use. Making <strong> diagrams, charts,<strong3 id="color"> color </strong3> coding, etc.</strong> Based on past experience, this guide is suitable for teenagers, whether it is for studying for an exam, test, or quiz, following this study guide is helpful for these learners. </p1>
 
-
+ <hr style="border: 4px solid blue;" />
    
 
 <h3>Auditory Learners</h3>
