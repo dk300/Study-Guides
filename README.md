@@ -25,9 +25,11 @@
 <p>The first part of this study guide is to make a chart, the chart includes the various topics that you have to study for a test, along with the difficulty level of each topic. Identifying the difficulty level will allow one to understand which topics they need to study first. The first step is to divide the information you need to study into 6-10 topics, and then rate the difficulty level of your topics. Now, this makes it easier for creating a study schedule, based on what you think needs to be studied the most. For instance, if a learner has to study 6 topics, but 2 topics are very difficult to learn, the learner would study the challenging topics first. The study schedule consists of how many days the learner thinks they need to study before their test.</p>
 <p>Using the techniques of visual learners, the second part of this study guide includes making a chart and a diagram. This part consists of making a chart with terms you need to study, along with the definitions. We also created a visually appealing diagram, using the topic of “Reproduction” as an example. The diagram includes turning key words of a topic into symbols or pictures to help a visual learner understand the main concept of the topic.</p>
 
+<img src="https://static.vecteezy.com/system/resources/previews/000/084/019/original/free-vector-sticky-note-set.jpg" width="410" align="left">
 <p>The third part of this study guide is most visually appealing, yet it's still effective. This part includes the use of sticky notes and colour. Using Meiosis and Mitosis as our topics, we combined the colour coding and diagram strategies into one study guide. This includes drawing diagrams on a sticky note, then placing those sticky notes on a piece of paper, and then writing the key word that corresponds with the picture. Depending on how many topics you have to study, you can colour code the topics with different colours of sticky notes, this way when you highlighted your notes on paper before, the hightlighted colour matches up with the sitcky note colour. This makes the study guide more clean, organized, and effective.</p>
-
-
+<img src="https://i.pinimg.com/originals/91/5e/44/915e447fd4f9fc18c7db4df9737772ab.png" width="100" align="right">
+<img src="https://library.kissclipart.com/20180830/vyq/kissclipart-bullet-points-clipart-bullet-computer-icons-ef2b008e923dcd51.png" width="100" align="right">
+<p>The last part of this study guide includes all of the strategies we listed before. This part consists of using symbols like bullet points and arrows, along with replacing key words with symbols. Studying a large amount of information can give students stress, but by summarizing the information and replacing some words with symbols, can help a visual learner learn without stress.</p>
 
 <p1>The study guide we’ve made for <strong2> Visual Learners </strong2> consists of all of the techniques these types of learners use. Making <strong> diagrams, charts,<strong3 id="color"> color </strong3> coding, etc.</strong> Based on past experience, this guide is suitable for teenagers, whether it is for studying for an exam, test, or quiz, following this study guide is helpful for these learners. </p1>
 
@@ -35,9 +37,10 @@
    
 
 <h3>Auditory Learners</h3>
-<p>Some auditory learners don’t have a great memory for some things such as memorizing notes right out of a not book, but more so learn better by listening to music. This is actually proven to be a fact, this is because some people learn better by reading their notes to themselves to the beat and or rhythm of a song that they like. Also, rather than repeating one's notes very quickly over and over again some people would rather repeat their notes more slowly and read it back to themselves. Therefore, the people who prefer to read their notes more slowly aren’t considered to be “slow” but more so efficient; then again all people have their own way of studying but for auditory learners, this is a strategy that is efficient for them.
+<img src="http://worldartsme.com/images/headphones-transparent-gif-clipart-1.jpg" width="150" align="right">
+<p>Some auditory learners don’t have a great memory for some things such as memorizing notes right out of a note book, but more so learn better by listening to music. This is actually proven to be a fact, this is because some people learn better by reading their notes to themselves to the beat and or rhythm of a song that they like. Also, rather than repeating one's notes very quickly over and over again some people would rather repeat their notes more slowly and read it back to themselves. Therefore, the people who prefer to read their notes more slowly aren’t considered to be “slow” but more so efficient; then again all people have their own way of studying but for auditory learners, this is a strategy that is efficient for them.
 <p>
-    <img src="https://www.goodfreephotos.com/albums/vector-images/a-ear-vector-clipart.png" alt="ear" width="128" height="128" align="left" style="filter:FlipH.">
+    <img src="https://www.goodfreephotos.com/albums/vector-images/a-ear-vector-clipart.png" alt="ear" width="128" height="150" align="left" style="filter:FlipH.">
     <h3> Ways to Study using Auditory Learning </h3>
    <ul>
        <li> Listen to music while you read your notes. </li>
