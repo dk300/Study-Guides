@@ -23,6 +23,20 @@
  <hr style="border: 4px solid blue;" />
 <h3>Visual Learner Study Guide</h3>
 <p>The first part of this study guide is to make a chart, the chart includes the various topics that you have to study for a test, along with the difficulty level of each topic. Identifying the difficulty level will allow one to understand which topics they need to study first. The first step is to divide the information you need to study into 6-10 topics, and then rate the difficulty level of your topics. Now, this makes it easier for creating a study schedule, based on what you think needs to be studied the most. For instance, if a learner has to study 6 topics, but 2 topics are very difficult to learn, the learner would study the challenging topics first. The study schedule consists of how many days the learner thinks they need to study before their test.</p>
+
+| Time          | Monday        | Tuesday     | Wednesday   | Thursday    | Friday     | Review Day  |
+| ------------- |:-------------:| -----------:|----------:  |-----------: |----------: |-----------: |
+| 11:30-12:00   | Topic 4       | Topic 4     | Topic 2     | Topic 4     | Topic 2    | Topic 4     |
+| 12:00-12:30   | Topic 4       | Topic 4     | Topic 2     | Topic 4     | Topic 2    | Topic 4     |
+| 12:30-1:00    | Topic 4       | Topic 4     | Topic 2     | Topic 3     | Topic 2    | Topic 3     |
+| 1:00-2:00     | BREAK         | BREAK       | BREAK       | BREAK       | BREAK      | BREAK       |
+| 2:00-2:30     | Topic 4       | Topic 4     | Topic 2     | Topic 3     | Topic 2    | Topic 3     |
+| 2:30-3:00     | Topic 3       | Topic 3     | Topic 5     | Topic 1     | Topic 5    | Topic 2     |
+| 3:00-3:30     | Topic 3       | Topic 3     | Topic 5     | Topic 1     | Topic 5    | Topic 2     |
+| 3:30-4:30     | BREAK         | BREAK       | BREAK       | BREAK       | BREAK      | BREAK       |
+| 4:30-5:00     | Topic 3       | Topic 3     | Topic 5     | Topic 1     | Topic 5    | Topic 5     |
+| 5:00-5:30     | Topic 3       | Topic 3     | Topic 5     | Topic 1     | Topic 5    | Topic 1     |
+
 <p>Using the techniques of visual learners, the second part of this study guide includes making a chart and a diagram. This part consists of making a chart with terms you need to study, along with the definitions. We also created a visually appealing diagram, using the topic of “Reproduction” as an example. The diagram includes turning key words of a topic into symbols or pictures to help a visual learner understand the main concept of the topic.</p>
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/084/019/original/free-vector-sticky-note-set.jpg" width="410" align="left">
