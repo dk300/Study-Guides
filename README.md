@@ -56,6 +56,22 @@
 <img src="http://aaspeech.com/wp-content/uploads/2018/04/speech-Bubbles.jpg" width="200" align="right">
 <p>Most students rather learn in a fun enviroment, it tends to be more stress free and overall makes it more fun to learn. We have made a study guide that includes all of this! This game is called "Questions Roulette". The learning game is suitable for both auditorial and social learners. The game includes turning your notes into possible test questions, writing them onto flashcards, and playing with your friends. Social learners prefer to communicate regarding a specific topic with others, rather than alone and audtiorial learners prefer to hear information. This game is great combination for both learners. This way auditorial learners are able to practice and hear the correct answer to a question with a friend, which is how social learners prefer to study.</p>
 
+<h5>Procedure for Questions Roulette</h5>
+<ol>
+<li>Grab all of your notes for the test you are studying for.</li>
+    <li>Find the key important facts that are showcased in your notes.</li>
+    <li>Turn those facts into possible test questions, along with answers.</li>
+    <li>List all of the questions and answers on a piece of paper, making an answer key.</li>
+    <li>Grab flashcards and number them off.</li>
+    <li>Number the questions that you have made on your answer key.</li>
+    <li>Write a question behind the numbered flash card (ex. The front side of the flashcard has a number, the backside of the flashcard has a question).</li>
+    <li>Find friends that are wanting to study for the same test (the game is designed for three people).</li>
+    <p><strong>BONUS!</strong> → Create a game with three answer keys, as each member of the group creates questions from the notes. The more different questions, the more prepared you are for the test!</li>
+
+
+
+
+
 </body>
     
  
