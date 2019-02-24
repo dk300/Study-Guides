@@ -57,6 +57,8 @@
 <p>Most students rather learn in a fun enviroment, it tends to be more stress free and overall makes it more fun to learn. We have made a study guide that includes all of this! This game is called "Questions Roulette". The learning game is suitable for both auditorial and social learners. The game includes turning your notes into possible test questions, writing them onto flashcards, and playing with your friends. Social learners prefer to communicate regarding a specific topic with others, rather than alone and audtiorial learners prefer to hear information. This game is great combination for both learners. This way auditorial learners are able to practice and hear the correct answer to a question with a friend, which is how social learners prefer to study.</p>
 
 <h5>Procedure for Questions Roulette</h5>
+<img src="http://worldartsme.com/images/cartoon-question-clipart-1.jpg" width="100" align="right">
+<img src="http://clipart-library.com/data_images/25249.gif" width="100" align="right">
 <ol>
 <li>Grab all of your notes for the test you are studying for.</li>
     <li>Find the key important facts that are showcased in your notes.</li>
