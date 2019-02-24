@@ -52,6 +52,9 @@
  
  <p5> One way to learn effectively is to learn with other people, who are also preparing for the same test. Social learning is about learning information by <strong> communicating with others</strong>. For example, you could find a person in the same class as you, and ask questions to each other, fix any errors in answers, and memorize the information by communicating together. For some people, this is a very effective way to learn because it is more exciting than just reading off notes because one can learn something, by talking to a friend and it can help keep retention about the information they learned. Ways to learn socially can be testing someone about the material, reading off to one another, getting tested by someone, etc. A classmate might not be the best learner in class, but by learning with somebody else, they can become motivated and might start wanting to learn/study. </p5>
 
+<h4>Study Guide for Social & Auditorial Learners</h4>
+<img src="http://aaspeech.com/wp-content/uploads/2018/04/speech-Bubbles.jpg" width="200" align="right">
+<p>Most students rather learn in a fun enviroment, it tends to be more stress free and overall makes it more fun to learn. We have made a study guide that includes all of this! This game is called "Questions Roulette". The learning game is suitable for both auditorial and social learners. The game includes turning your notes into possible test questions, writing them onto flashcards, and playing with your friends. Social learners prefer to communicate regarding a specific topic with others, rather than alone and audtiorial learners prefer to hear information. This game is great combination for both learners. This way auditorial learners are able to practice and hear the correct answer to a question with a friend, which is how social learners prefer to study.</p>
 
 </body>
     
