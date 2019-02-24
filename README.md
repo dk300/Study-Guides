@@ -48,6 +48,7 @@
 | 3:30-4:30     | BREAK         | BREAK       | BREAK       | BREAK       | BREAK      | BREAK       |
 | 4:30-5:00     | Topic 3       | Topic 3     | Topic 5     | Topic 1     | Topic 5    | Topic 5     |
 | 5:00-5:30     | Topic 3       | Topic 3     | Topic 5     | Topic 1     | Topic 5    | Topic 1     |
+<p><strong>This is just an example, adjust this schedule to your likings.</strong></p>
 
 <p>Using the techniques of visual learners, the second part of this study guide includes making a chart and a diagram. This part consists of making a chart with terms you need to study, along with the definitions. We also created a visually appealing diagram, using the topic of “Reproduction” as an example. The diagram includes turning key words of a topic into symbols or pictures to help a visual learner understand the main concept of the topic.</p>
 
