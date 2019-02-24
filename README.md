@@ -26,6 +26,16 @@
 <h3>Visual Learner Study Guide</h3>
 <p>The first part of this study guide is to make a chart, the chart includes the various topics that you have to study for a test, along with the difficulty level of each topic. Identifying the difficulty level will allow one to understand which topics they need to study first. The first step is to divide the information you need to study into 6-10 topics, and then rate the difficulty level of your topics. Now, this makes it easier for creating a study schedule, based on what you think needs to be studied the most. For instance, if a learner has to study 6 topics, but 2 topics are very difficult to learn, the learner would study the challenging topics first. The study schedule consists of how many days the learner thinks they need to study before their test.</p>
 
+<h><strong>Here is an example:</strong></h>
+    
+| Topics        | Difficulty Level (out of 10)   |
+| ------------- |:-------------:| 
+| Topic 1       | 1      | 
+| Topic 2       | 3      | 
+| Topic 3       | 4      | 
+| Topic 4       | 6      | 
+| Topic 5       | 2      |
+
 | Time          | Monday        | Tuesday     | Wednesday   | Thursday    | Friday     | Review Day  |
 | ------------- |:-------------:| -----------:|----------:  |-----------: |----------: |-----------: |
 | 11:30-12:00   | Topic 4       | Topic 4     | Topic 2     | Topic 4     | Topic 2    | Topic 4     |
