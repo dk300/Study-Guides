@@ -52,7 +52,7 @@
 
 <p>Using the techniques of visual learners, the second part of this study guide includes making a chart and a diagram. This part consists of making a chart with terms you need to study, along with the definitions. We also created a visually appealing diagram, using the topic of “Reproduction” as an example. The diagram includes turning key words of a topic into symbols or pictures to help a visual learner understand the main concept of the topic.</p>
 
-<img src="https://static.vecteezy.com/system/resources/previews/000/084/019/original/free-vector-sticky-note-set.jpg" width="410" align="left">
+<img src="https://static.vecteezy.com/system/resources/previews/000/084/019/original/free-vector-sticky-note-set.jpg" width="430" align="left">
 <p>The third part of this study guide is most visually appealing, yet it's still effective. This part includes the use of sticky notes and colour. Using Meiosis and Mitosis as our topics, we combined the colour coding and diagram strategies into one study guide. This includes drawing diagrams on a sticky note, then placing those sticky notes on a piece of paper, and then writing the key word that corresponds with the picture. Depending on how many topics you have to study, you can colour code the topics with different colours of sticky notes, this way when you highlighted your notes on paper before, the hightlighted colour matches up with the sitcky note colour. This makes the study guide more clean, organized, and effective.</p>
 <img src="https://i.pinimg.com/originals/91/5e/44/915e447fd4f9fc18c7db4df9737772ab.png" width="100" align="right">
 <img src="https://library.kissclipart.com/20180830/vyq/kissclipart-bullet-points-clipart-bullet-computer-icons-ef2b008e923dcd51.png" width="100" align="right">
