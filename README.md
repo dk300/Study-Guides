@@ -61,6 +61,9 @@
 <p1>The study guide we’ve made for <strong2> Visual Learners </strong2> consists of all of the techniques these types of learners use. Making <strong> diagrams, charts,<strong3 id="color"> color </strong3> coding, etc.</strong> Based on past experience, this guide is suitable for teenagers, whether it is for studying for an exam, test, or quiz, following this study guide is helpful for these learners. </p1>
 
  <hr style="border: 4px solid blue;" />
+ <h3>Review</h3>
+<p>Harjot Dhillon:"The study guides actually helped! I really liked the Sticky Note Method, it helped me memorize the phases of Mitosis and Meiosis. It's a great tool to use for memorizing diagrams". </p>
+ <hr style="border: 4px solid blue;" />
    
 
 <h3>Auditory Learners</h3>
@@ -96,9 +99,10 @@
     <li>Write a question behind the numbered flash card (ex. The front side of the flashcard has a number, the backside of the flashcard has a question).</li>
     <li>Find friends that are wanting to study for the same test (the game is designed for three people).</li>
     <p><strong>BONUS!</strong> → Create a game with three answer keys, as each member of the group creates questions from the notes. The more different questions, the more prepared you are for the test!</li>
-
-
-
+ <hr style="border: 4px solid blue;" />
+ 
+ <h3>Review</h3>
+ 
 
 
 </body>
