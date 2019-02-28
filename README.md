@@ -1,5 +1,4 @@
 # Study Guides
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -21,7 +20,7 @@
 <img src="https://charity.digital/assets/images/keywords-highlight.png" width="350" align="left">
 <p>One way a visual learner should study, is by creating various <strong> charts </strong>, that display the notes they’ve made in class. By drawing the information out, it is more likely for visual learners to understand the information better. To make a diagram,<strong> highlighting the key words</strong> in your notes is the best way to start. You can use those keywords in your diagram by labeling key parts of the diagram. For example, if you draw a plant cell on a flash card, and have an arrow pointing towards a key part of the cell, you can have the organelle on the other side and provide a definition of the organelle. Another way many visual learners study is by <strong> colour coding </strong> their notes. For instance, if your studying vocabulary for a specific subject, you may want to use different colour highlighters <strong> to indicate the importance </strong> of the word. Each colour can symbolize the topic or category it falls under.</p>    
 <img src="https://www.motivesinmotion.com/wp-content/uploads/2016/02/www.taylorhartman.comblogwhat-is-the-color-codecovercolor-code-intl-logo1-e1417293931224-443e7c79205ad5b29d45707b843f23679a14e381.png" width="300" align="right">        
- <hr style="border: 4px solid blue;" />
+ <hr style="border: 4px solid black;" />
 <h3>Visual Learner Study Guide</h3>
 <p>The first part of this study guide is to make a chart, the chart includes the various topics that you have to study for a test, along with the difficulty level of each topic. Identifying the difficulty level will allow one to understand which topics they need to study first. The first step is to divide the information you need to study into 6-10 topics, and then rate the difficulty level of your topics. Now, this makes it easier for creating a study schedule, based on what you think needs to be studied the most. For instance, if a learner has to study 6 topics, but 2 topics are very difficult to learn, the learner would study the challenging topics first. The study schedule consists of how many days the learner thinks they need to study before their test.</p>
 
@@ -59,10 +58,10 @@
 
 <p1>The study guide we’ve made for <strong2> Visual Learners </strong2> consists of all of the techniques these types of learners use. Making <strong> diagrams, charts,<strong3 id="color"> color </strong3> coding, etc.</strong> Based on past experience, this guide is suitable for teenagers, whether it is for studying for an exam, test, or quiz, following this study guide is helpful for these learners. </p1>
 
- <hr style="border: 4px solid blue;" />
+ <hr style="border: 4px solid black;" />
  <h3>Review</h3>
 <p>Harjot Dhillon:"The study guides actually helped! I really liked the Sticky Note Method, it helped me memorize the phases of Mitosis and Meiosis. It's a great tool to use for memorizing diagrams". </p>
- <hr style="border: 4px solid blue;" />
+ <hr style="border: 4px solid black;" />
    
 
 <h3>Auditory Learners</h3>
@@ -98,18 +97,14 @@
     <li>Write a question behind the numbered flash card (ex. The front side of the flashcard has a number, the backside of the flashcard has a question).</li>
     <li>Find friends that are wanting to study for the same test (the game is designed for three people).</li>
     <p><strong>BONUS!</strong> → Create a game with three answer keys, as each member of the group creates questions from the notes. The more different questions, the more prepared you are for the test!</li>
- <hr style="border: 4px solid blue;" />
+ <hr style="border: 4px solid black;" />
  
  <h3>Review</h3>
  <p> Sarah Raufi:"This game was a fun way to study. It really did help with memorization, since I'm a auditory learner. Since I could work with friends, it made it less boring too". </p>
  
-  <hr style="border: 4px solid blue;" />
+  <hr style="border: 4px solid black;" />
 
 
 </body>
-    
- 
-    
-    
 </html>
 
