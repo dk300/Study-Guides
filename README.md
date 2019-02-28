@@ -102,7 +102,7 @@
  <hr style="border: 4px solid blue;" />
  
  <h3>Review</h3>
- <p> Sarah Raufi:"This game was a fun way to study. It really did help with memorization, since I'm a Auditory Learner. Since I could work with friends, it made it less boring too". </p>
+ <p> Sarah Raufi:"This game was a fun way to study. It really did help with memorization, since I'm a auditory learner. Since I could work with friends, it made it less boring too". </p>
  
   <hr style="border: 4px solid blue;" />
 
